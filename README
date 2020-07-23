@@ -1,1 +1,11 @@
+Hello,
 
+This is a Spring boot application implementing Spring Security, JWT and usses Swagger UI for API Documentation.
+
+After running the code go to http://localhost:8080/swagger-ui.html#/. Excute API naming Authenticate for generating JWT token. Username and Password for ths is "admin" and "admin".
+
+After Generating JWT token, add the token in the Authenticate button on the top right side with "Bearer <JWT token>"
+
+After authenticating, you will be able to assess the remaing APIs.
+
+Thanks
