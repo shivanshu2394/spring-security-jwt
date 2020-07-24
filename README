@@ -8,4 +8,6 @@ After Generating JWT token, add the token in the Authenticate button on the top 
 
 After authenticating, you will be able to assess the remaing APIs.
 
+To learn more about JSON Web token (JWT) refer to this link: https://jwt.io/introduction/
+
 Thanks
